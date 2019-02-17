@@ -1,6 +1,6 @@
 ## English to Morse Translator
 
-#### About
+### About
 This is a very simple English to Morse code translator that I 
 did as my first project. 
 
